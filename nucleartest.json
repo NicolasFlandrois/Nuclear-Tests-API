@@ -1,0 +1,386 @@
+[
+    {
+        "country":"USA",
+        "year":"1945",
+        "where":"New Mexico",
+        "location":"Socorro",
+        "name":"Trinity",
+        "max_yield":"20 kt"
+    },
+    {
+        "country":"USA",
+        "year":"1946",
+        "where":"Marshall Island",
+        "location":"Bikini Atoll",
+        "name":"Operation Crossroads",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"USA",
+        "year":"1951",
+        "where":"Marshall Island",
+        "location":"Enewetak Atoll",
+        "name":"Operation Greenhouse",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"USA",
+        "year":"1952",
+        "where":"Marshall Island",
+        "location":"Enewetak Atoll",
+        "name":"Ivy Mike",
+        "max_yield":"10 mt"
+    },
+    {
+        "country":"USA",
+        "year":"1954",
+        "where":"Marshall Island",
+        "location":"Bikini Atoll",
+        "name":"Castle Bravo",
+        "max_yield":"15 mt"
+    },
+    {
+        "country":"USA",
+        "year":"1957",
+        "where":"Nevada",
+        "location":"NTS",
+        "name":"Operation Plumbob",
+        "max_yield":"75 kt"
+    },
+    {
+        "country":"USA",
+        "year":"1958",
+        "where":"South Atlantic Ocean",
+        "location":"Outer Space",
+        "name":"Operation Argus",
+        "max_yield":"1.5 kt"
+    },
+    {
+        "country":"USA",
+        "year":"1962",
+        "where":"Johnston Atoll - Pacific Ocean",
+        "location":"Johnston Atoll",
+        "name":"Operation Dominic",
+        "max_yield":"600 kt"
+    },
+    {
+        "country":"USA",
+        "year":"1962",
+        "where":"Nevada",
+        "location":"NTS",
+        "name":"Operation Storax",
+        "max_yield":"104 kt"
+    },
+    {
+        "country":"USA",
+        "year":"1992",
+        "where":"Nevada",
+        "location":"NTS",
+        "name":"Operation Julin",
+        "max_yield":"100 kt"
+    },
+    {
+        "country":"USSR",
+        "year":"1949",
+        "where":"Kazakh SSR (Kazakhstan)",
+        "location":"Semipalatinsk Test Site",
+        "name":"RDS-1",
+        "max_yield":"22 kt"
+    },
+    {
+        "country":"USSR",
+        "year":"1953",
+        "where":"Kazakh SSR (Kazakhstan)",
+        "location":"Semipalatinsk Test Site",
+        "name":"RDS-6s",
+        "max_yield":"400 kt"
+    },
+    {
+        "country":"USSR",
+        "year":"1955",
+        "where":"Kazakh SSR (Kazakhstan)",
+        "location":"Semipalatinsk Test Site",
+        "name":"RDS-37",
+        "max_yield":"3 mt"
+    },
+    {
+        "country":"USSR",
+        "year":"1961",
+        "where":"USSR",
+        "location":"Sukhoy Nos",
+        "name":"RDS-220 - Tsar Bomba",
+        "max_yield":"50 mt"
+    },
+    {
+        "country":"USSR",
+        "year":"1965",
+        "where":"Kazakh SSR (Kazakhstan)",
+        "location":"Semipalatinsk Test Site",
+        "name":"Chargan",
+        "max_yield":"140 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1952",
+        "where":"Western Australia",
+        "location":"Monte Bello Islands",
+        "name":"Operation Hurricane",
+        "max_yield":"25 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1953",
+        "where":"South Australia",
+        "location":"Emu Field",
+        "name":"Operation Totem",
+        "max_yield":"10 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1956",
+        "where":"Western Australia",
+        "location":"Monte Bello Islands",
+        "name":"Operation Mosaic",
+        "max_yield":"60 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1956",
+        "where":"South Africa",
+        "location":"Maralinga Range",
+        "name":"Operation Buffalo",
+        "max_yield":"15 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1957",
+        "where":"South Africa",
+        "location":"Maralinga Range",
+        "name":"Operation Antler",
+        "max_yield":"26.6 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1957 - 1958",
+        "where":"Malden Island and Kiritimati (Christmas Island)",
+        "location":"Malden Island and Kiritimati (Christmas Island)",
+        "name":"Operation Grapple",
+        "max_yield":"3 mt"
+    },
+    {
+        "country":"UK",
+        "year":"1991",
+        "where":"Nevada",
+        "location":"NTS",
+        "name":"Justin/Bristol",
+        "max_yield":"11 kt"
+    },
+    {
+        "country":"UK",
+        "year":"1953 - 1961",
+        "where":"South Australia",
+        "location":"Maralinga Site",
+        "name":"Operation Kittens",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"UK",
+        "year":"1956 - 1960",
+        "where":"South Australia",
+        "location":"Maralinga Site",
+        "name":"Operation Rats",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"UK",
+        "year":"1955 - 1963",
+        "where":"South Australia",
+        "location":"Maralinga Site",
+        "name":"Operation Tims",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"UK",
+        "year":"1959 - 1963",
+        "where":"South Australia",
+        "location":"Maralinga Site",
+        "name":"Operation Vixen",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"France",
+        "year":"1960",
+        "where":"Algeria",
+        "location":"Reggane",
+        "name":"Operation Gerboise Bleue",
+        "max_yield":"5 kt"
+    },
+    {
+        "country":"France",
+        "year":"1961",
+        "where":"Algeria",
+        "location":"Ekker",
+        "name":"Operation Agathe",
+        "max_yield":"10 kt"
+    },
+    {
+        "country":"France",
+        "year":"1966 - 1968",
+        "where":"Moruroa and Fangataufa",
+        "location":"Moruroa and Fangataufa; in the atmosphere",
+        "name":"Operation Aldébaran",
+        "max_yield":"2.6 mt"
+    },
+    {
+        "country":"France",
+        "year":"1975 - 1996",
+        "where":"Moruroa and Fangataufa",
+        "location":"Moruroa and Fangataufa; underground",
+        "name":"Operation Achille",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"China",
+        "year":"1964",
+        "where":"NaN",
+        "location":"NaN",
+        "name":"596",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"China",
+        "year":"1967",
+        "where":"NaN",
+        "location":"NaN",
+        "name":"Test No. 6",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"China",
+        "year":"1974",
+        "where":"NaN",
+        "location":"NaN",
+        "name":"CHIC-16",
+        "max_yield":"200 kt - 1 mt"
+    },
+    {
+        "country":"China",
+        "year":"1976",
+        "where":"NaN",
+        "location":"NaN",
+        "name":"#21",
+        "max_yield":"4 mt"
+    },
+    {
+        "country":"China",
+        "year":"1980",
+        "where":"NaN",
+        "location":"atmospheric",
+        "name":"#29",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"China",
+        "year":"1996",
+        "where":"NaN",
+        "location":"underground",
+        "name":"#45",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"India",
+        "year":"1974",
+        "where":"India, Rajasthan, Jaisalmer",
+        "location":"Pokhran Test Range, underground",
+        "name":"Operation Smiling Buddha, Pokhran-I",
+        "max_yield":"12 kt"
+    },
+    {
+        "country":"India",
+        "year":"1998",
+        "where":"India, Rajasthan, Jaisalmer",
+        "location":"Pokhran Test Range, underground",
+        "name":"Operation Shakti, Pokhran-II",
+        "max_yield":"43 - 45 kt"
+    },
+    {
+        "country":"Pakistan",
+        "year":"1983–1990",
+        "where":"Pakistan, Sargodha",
+        "location":"Kirana Hills, underground",
+        "name":"Kirana-I",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"Pakistan",
+        "year":"1998",
+        "where":"Pakistan, Balochistan, Chagai",
+        "location":"Ras Koh Hills, underground",
+        "name":"Chagai-I",
+        "max_yield":"65 kt"
+    },
+    {
+        "country":"Pakistan",
+        "year":"1998",
+        "where":"Pakistan",
+        "location":"Kharan Desert, underground",
+        "name":"Chagai-II",
+        "max_yield":"25 kt"
+    },
+    {
+        "country":"North Korea",
+        "year":"2006",
+        "where":"North Korea",
+        "location":"North Hamgyong Province",
+        "name":"NaN",
+        "max_yield":"less than a kiloton"
+    },
+    {
+        "country":"North Korea",
+        "year":"2009",
+        "where":"North Korea",
+        "location":"Mantapsan",
+        "name":"NaN",
+        "max_yield":"ranging from 3 to 20 kilotons"
+    },
+    {
+        "country":"North Korea",
+        "year":"2013",
+        "where":"North Korea",
+        "location":"Punggye-ri nuclear site, underground",
+        "name":"NaN",
+        "max_yield":"15 kt"
+    },
+    {
+        "country":"North Korea",
+        "year":"2015",
+        "where":"North Korea",
+        "location":"Punggye-ri nuclear site, underground",
+        "name":"NaN",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"North Korea",
+        "year":"2016",
+        "where":"North Korea",
+        "location":"19 kilometers (12 miles) east-northeast of Sungjibaegam",
+        "name":"NaN",
+        "max_yield":"NaN"
+    },
+    {
+        "country":"North Korea",
+        "year":"2016",
+        "where":"North Korea",
+        "location":"Punggye-ri Test Site",
+        "name":"NaN",
+        "max_yield":"20–30 kt"
+    },
+    {
+        "country":"North Korea",
+        "year":"2017",
+        "where":"North Korea",
+        "location":"NaN",
+        "name":"NaN",
+        "max_yield":"100 kt"
+    }
+]
