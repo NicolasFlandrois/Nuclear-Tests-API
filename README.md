@@ -1,5 +1,5 @@
 # Nuclear-Tests-API
-Training Practice - Creating a RESTFul API backed by a MongoDB - Using known data of nuclear weapons tests
+Training Practice - Creating a RESTFul API backed by MongoDB - Using known nuclear weapons testing operations' data from various countries.
 
 ![](https://img.shields.io/badge/Python-3.8-blue.svg)  ![](https://img.shields.io/badge/Flask-1.1.2-9cf.svg) ![](https://img.shields.io/badge/MongoDB-3.2.11-success.svg)
 
@@ -13,7 +13,7 @@ Training Practice - Creating a RESTFul API backed by a MongoDB - Using known dat
 ------------------------------------------------------------------------------
 ## Description:
 
-This project is a training practice to create a **Flask RESTFul API** backed by a **MongoDB (NoSQL)**.
+This project is a training practice to create a **Flask RESTFul API** backed by **MongoDB (NoSQL)**.
 
 In this practice, the Flask API requests information about official/known nuclear weapons tests.
 Data are stored in MongoDB. Flask uses Flask-PyMongo (v 2.3.0) module to communicate with the database.
